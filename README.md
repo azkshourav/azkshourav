@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/kMl2o9LaG6HbKE2dcx" width="480" height="33" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-kMl2o9LaG6HbKE2dcx">via GIPHY</a></p>
+<p align="center"> <img src="https://giphy.com/embed/kMl2o9LaG6HbKE2dcx" alt="photoshop" width="720" height="720"/> </a> </p>
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="720" height="720"/> </a> </p>
