@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="560" height="653"/> </a>
+<p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="560" height="653"/> </a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Zubayer Karim </h1>
@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azkshourav&" alt="azkshourav" /></p>
 
-<a href="https://app.daily.dev/azkshourav"><img src="https://api.daily.dev/devcards/496e7715e55447958558b9ff3502e188.png?r=29t" width="400" alt="Zubayer Karim's Dev Card"/></a> </p>
+<a href="https://app.daily.dev/azkshourav"><img src="https://api.daily.dev/devcards/496e7715e55447958558b9ff3502e188.png?r=29t" width="400" alt="Zubayer Karim's Dev Card"/></a>
 
 
 
