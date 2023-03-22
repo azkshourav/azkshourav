@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmmed Zubayer Karim ( Shourav )</h1>
+<h1 align="center">Hi 👋, I'm Zubayer Karim </h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkshourav&label=Profile%20views&color=0e75b6&style=flat" alt="azkshourav" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/azkshourav" target="blank"><img src="https://img.shields.io/twitter/follow/azkshourav?logo=twitter&style=for-the-badge" alt="azkshourav" /></a> </p>
 
-<a href="https://app.daily.dev/azkshourav"><img src="https://api.daily.dev/devcards/496e7715e55447958558b9ff3502e188.png?r=29t" width="400" alt="Zubayer Karim's Dev Card"/></a>
+
 
 - 🔭 I’m currently working on [#](https://#)
 
@@ -47,6 +47,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azkshourav&show_icons=true&locale=en" alt="azkshourav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azkshourav&" alt="azkshourav" /></p>
+
+<a href="https://app.daily.dev/azkshourav"><img src="https://api.daily.dev/devcards/496e7715e55447958558b9ff3502e188.png?r=29t" width="400" alt="Zubayer Karim's Dev Card"/></a>
 
 
 
