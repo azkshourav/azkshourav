@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/azkshourav" target="blank"><img src="https://img.shields.io/twitter/follow/azkshourav?logo=twitter&style=for-the-badge" alt="azkshourav" /></a> </p>
 
+<a href="https://app.daily.dev/azkshourav"><img src="https://api.daily.dev/devcards/496e7715e55447958558b9ff3502e188.png?r=29t" width="400" alt="Zubayer Karim's Dev Card"/></a>
+
 - 🔭 I’m currently working on [#](https://#)
 
 - 🌱 I’m currently learning **Web Development with PHP & Laravel**
