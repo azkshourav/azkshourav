@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="720" height="720"/> </a> </p>
+<p aling='center"> <img src="https://user-images.githubusercontent.com/118666661/226911386-5230ba08-3fcf-4d63-931d-6cfaa7866bca.gif" alt="Profile Pic Of Zubayer Karim" width="720" height="720"/> </a> </p>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="Profile Pic Of Zubayer Karim" width="720" height="720"/> </a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Zubayer Karim </h1>
