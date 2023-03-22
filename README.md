@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="560" height="653"/> </a>
+<center><img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="560" height="653"/> </a></center>
 
 
 <h1 align="center">Hi 👋, I'm Zubayer Karim </h1>
