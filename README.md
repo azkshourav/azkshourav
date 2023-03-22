@@ -1,6 +1,6 @@
 ![zubayerkarim](https://user-images.githubusercontent.com/118666661/226923852-fa66c072-cb4f-42bf-81e2-13e312e1474c.gif)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="720" height="720"/> </a> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/118666661/226869708-f79ba07a-eef2-452c-8a34-2601c18f2b9a.jpg" alt="photoshop" width="553" height="480"/> </a> </p>
 
 
 
